@@ -1,6 +1,6 @@
 {
     "name": "laoitdev-template",
-    "version": "1.14.2",
+    "version": "1.14.3",
     "description": "The frontend boilerplate with superpowers",
     "license": "MIT",
     "repository": {
@@ -9,6 +9,9 @@
     },
     "homepage": "https://github.com/skillmonster/laoitdev-template",
     "main": "lib/api.js",
+    "bugs": {
+        "url": "https://github.com/skillmonster/laoitdev-template/issues"
+    },
     "bin": {
         "skillmonster": "lib/index.js"
     },
