@@ -10,7 +10,7 @@
     "homepage": "https://github.com/skillmonster/laoitdev-template",
     "main": "lib/api.js",
     "bin": {
-        "laoitdev-template": "lib/index.js"
+        "skillmonster": "lib/index.js"
     },
     "files": [
         "lib",
