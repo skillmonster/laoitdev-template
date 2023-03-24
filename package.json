@@ -3,11 +3,14 @@
     "version": "1.14.0",
     "description": "The frontend boilerplate with superpowers",
     "license": "MIT",
-    "repository": "github.com:skillmonster/laoitdev-template.git",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/skillmonster/laoitdev-template.git"
+    },
     "homepage": "https://github.com/skillmonster/laoitdev-template",
     "main": "lib/api.js",
     "bin": {
-        "superplate": "lib/index.js"
+        "skillmonster": "lib/index.js"
     },
     "files": [
         "lib",
