@@ -10,7 +10,7 @@
     "homepage": "https://github.com/skillmonster/laoitdev-template",
     "main": "lib/api.js",
     "bin": {
-        "skillmonster": "lib/index.js"
+        "laoitdev-template": "lib/index.js"
     },
     "files": [
         "lib",
@@ -91,5 +91,5 @@
             "eslint --quiet --fix"
         ]
     },
-    "author": "vanvixay <tong@lid.fe-nuol.edu.la>"
+    "author": "skillmonster <tong.01vip@gmail.com>"
 }
