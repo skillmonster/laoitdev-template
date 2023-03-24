@@ -1,16 +1,10 @@
 {
-    "name": "superplate-cli",
+    "name": "laoitdev-template",
     "version": "1.14.0",
     "description": "The frontend boilerplate with superpowers",
     "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/pankod/superplate.git"
-    },
-    "bugs": {
-        "url": "https://github.com/pankod/superplate/issues"
-    },
-    "homepage": "https://pankod.github.io/superplate/",
+    "repository": "github.com:skillmonster/laoitdev-template.git",
+    "homepage": "https://github.com/skillmonster/laoitdev-template",
     "main": "lib/api.js",
     "bin": {
         "superplate": "lib/index.js"
@@ -93,5 +87,6 @@
         "*.{js,ts,tsx}": [
             "eslint --quiet --fix"
         ]
-    }
+    },
+    "author": "vanvixay <tong@lid.fe-nuol.edu.la>"
 }
